@@ -12,7 +12,7 @@ dependencies:
   - jupyter>=1.0
   - notebook>=7.0
   - ipykernel>=6.0
+  - xgboost>=2.0
   - pip
   - pip:
-    - xgboost>=2.0
     - shap>=0.43
