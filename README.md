@@ -218,13 +218,13 @@ def evaluate_model(name, model, X_test, y_test):
 
 ## Week-by-Week Plan (April 1 – April 29)
 
-| Week      | Dates     | Goals                                                                              |
-| --------- | --------- | ---------------------------------------------------------------------------------- |
-| **1**     | Apr 1–7   | ✅ Repo setup, EDA, data exploration                                               |
-| **2**     | Apr 8–14  | ✅ Preprocessing complete — imputation, scaling, SMOTE, train/val/test split saved |
-| **3**     | Apr 15–21 | Individual model implementation and hyperparameter tuning (each member)            |
-| **4**     | Apr 22–28 | Model comparison, SHAP analysis, final presentation slides and writeup             |
-| **Final** | Apr 29    | Final presentation                                                                 |
+| Week      | Dates     | Goals                                                                               |
+| --------- | --------- | ----------------------------------------------------------------------------------  |
+| **1**     | Apr 1–7   | ✅ Repo setup, EDA, data exploration                                                |
+| **2**     | Apr 8–14  | ✅ Preprocessing complete — imputation, scaling, SMOTE, train/val/test split saved  |
+| **3**     | Apr 15–21 | ✅ Individual model implementation and hyperparameter tuning (each member)          |
+| **4**     | Apr 22–28 | Model comparison, SHAP analysis, final presentation slides and writeup               |
+| **Final** | Apr 29    | Final presentation                                                                   |
 
 ---
 
